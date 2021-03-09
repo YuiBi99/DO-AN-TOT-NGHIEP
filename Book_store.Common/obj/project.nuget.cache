@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MF6GwcX058USHkewJp6BN+aMrrpVZpa7e3aeG60u1XK6Ttjvzms+r0RtndwIZNQJmWDSQScn3WEaCUuAys+POA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BVC\\Desktop\\DO-AN-TOT-NGHIEP\\Book_store.Common\\Book_store.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BVC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BVC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
